@@ -23,3 +23,11 @@ Fruits is a light weight fruit description app with SwiftUI views and features
 
 ![newFruits](https://github.com/user-attachments/assets/1cd03d4f-79a8-46ea-97f8-7fc9931e652a)
 
+# CoinCrypto 
+CoinCrypto is a fundamental UIKit app with a tableview displaying API data from CoinGecko.com  
+## Teck Stack
+- UIKit
+- MVC architecture
+- Async/Await
+- Progammatic Auto Layout
+## ![coincrypto](https://github.com/user-attachments/assets/4f5cd773-40f0-4400-9c04-38908ce8398e)
