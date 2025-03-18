@@ -31,3 +31,15 @@ CoinCrypto is a fundamental UIKit app with a tableview displaying API data from 
 - Async/Await
 - Progammatic Auto Layout
 ## ![coincrypto](https://github.com/user-attachments/assets/4f5cd773-40f0-4400-9c04-38908ce8398e)
+
+# MELT
+FoodBlog Swiping App with API, Authentication and Database
+ 
+## Teck Stack
+- SwiftUI
+- MVVM architecture
+- Async/Await
+- Firebase Auth
+- Firestore Storage
+
+https://github.com/user-attachments/assets/14adfe44-3b44-48d4-978e-83ab1de3f10e
