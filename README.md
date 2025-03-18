@@ -9,7 +9,7 @@ SwiftUI Todo list with light and dark mode.
 - Focus on reuseable components
 - Swipe to delete
 
-![simulator_screenshot_35DD322E-80E2-4311-9C88-C004913B92BA](https://github.com/user-attachments/assets/80b85853-859c-4bfa-b52e-c9b4d032e8bf)
+<h1>![simulator_screenshot_35DD322E-80E2-4311-9C88-C004913B92BA](https://github.com/user-attachments/assets/80b85853-859c-4bfa-b52e-c9b4d032e8bf)</h1>
 
 # Fruits
 Fruits is a light weight fruit description app with SwiftUI views and features
